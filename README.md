@@ -1,6 +1,9 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
+
 ### DATE: 24.8.24
+
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
+
 ### Description: 
 <div align = "justify">
 RapidMiner provides data mining and machine learning procedures including: data loading and transformation (ETL), data preprocessing and visualization, 
@@ -23,7 +26,6 @@ operators for preprocessing:
     <p>e. Remove Numbers: Exclude numeric values from the text.
 3) ***Stemming:*** Apply stemming to reduce words to their root forms. You can use operators like "Stem (Porter)"
 for this purpose.
-
 
 ### Output:
 
